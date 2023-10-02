@@ -75,7 +75,6 @@ jupyterlab_server==2.22.0
 langchain==0.0.292
 langsmith==0.0.38
 lazy-object-proxy==1.9.0
-llama-index==0.7.3
 lxml==4.9.2
 markdown-it-py==3.0.0
 MarkupSafe==2.1.1
