@@ -187,6 +187,5 @@ websocket-client==0.58.0
 websockets==11.0.3
 Werkzeug==2.3.7
 wheel==0.38.4
-y-py==0.5.9
 yarl==1.9.2
 zipp==3.16.2
