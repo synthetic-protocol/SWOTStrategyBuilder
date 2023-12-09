@@ -182,7 +182,7 @@ tenacity==8.2.3
 terminado==0.17.1
 tiktoken==0.4.0
 tinycss2==1.2.1
-tokenizers==0.14.0
+tokenizers==0.13.3
 tokentrim==0.1.13
 toml==0.10.2
 toolz==0.12.0
