@@ -210,5 +210,5 @@ wheel==0.38.4
 y-py==0.5.9
 yarl==1.9.2
 yaspin==3.0.1
-ypy-websocket==0.8.2
+ypy-websocket==0.12.4
 zipp==3.16.2
