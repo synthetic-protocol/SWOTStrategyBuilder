@@ -74,17 +74,6 @@ json5==0.9.6
 jsonschema==4.19.0
 jsonschema-spec==0.2.4
 jsonschema-specifications==2023.7.1
-jupyter_client==8.6.0
-jupyter_core==5.3.1
-jupyter-events==0.6.3
-jupyter-lsp==2.2.0
-jupyter_server==2.10.0
-jupyter_server_fileid==0.9.0
-jupyter_server_terminals==0.4.4
-jupyter-ydoc==0.2.4
-jupyterlab==4.0.8
-jupyterlab-pygments==0.1.2
-jupyterlab_server==2.22.0
 langchain==0.0.292
 langsmith==0.0.38
 lazy-object-proxy==1.9.0
